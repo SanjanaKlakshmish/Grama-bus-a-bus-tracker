@@ -1,0 +1,11 @@
+{
+  "name": "Sira–Tumakuru Bus Tracker",
+  "description": "Passenger-powered live bus tracking and sighting reports for the Sira to Tumakuru route in Karnataka.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
